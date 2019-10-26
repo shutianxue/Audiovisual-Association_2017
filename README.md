@@ -1,10 +1,13 @@
 # Audiovisual-Association_2017
 
 Purpose: this script was developed by Shutian Xue for her thesis study "Does learning an audiovisual association affect within-modal sensitivities?" at The University of Hong Kong (HKU) during 2017-2018. 
+
 ©️ Shutian Xue vivianxuest@outlook.com
 
 %% Aim
 This experiment aims to study whether forming audiovisual (cross-modal) associations would affect unimodal discrimination of visual brightness and auditory pitch.
+
+
 
 %% Methodology: discrimination + training
 1. Discrimination task
@@ -18,6 +21,8 @@ Three types of associations amde three groups:
 - Counterintuitive: higher B, lower P (vice versa)
 
 - Not associated [control]: random pairing (serve as control group)
+
+
 
 %% Structure of experiment
 
@@ -37,6 +42,8 @@ Day 2 (~50 min)
 2. Intermediate task
 
 3. Post-tests
+
+
 
 %% How to conduct experiment
 
